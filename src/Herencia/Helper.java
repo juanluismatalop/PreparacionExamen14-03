@@ -1,4 +1,4 @@
-package herencia;
+package Herencia;
 
 import java.time.LocalDate;
 import java.time.Period;
